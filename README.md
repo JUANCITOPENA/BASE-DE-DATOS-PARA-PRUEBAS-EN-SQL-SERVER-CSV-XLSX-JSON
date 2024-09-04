@@ -1,4 +1,4 @@
-# 🗃️ BASE DE DATOS PARA PRUEBAS EN SQL SERVER
+# 🗃️ BASE DE DATOS PARA PRUEBAS EN SQL SERVER Y OTROS FORMATOS COMO CSV, XLSX, JSON:
 
 Este repositorio contiene varias bases de datos de ejemplo para pruebas y análisis en SQL Server, así como archivos en diferentes formatos para facilitar la integración y uso en diversos entornos. A continuación, se presentan las bases de datos y archivos disponibles:
 
