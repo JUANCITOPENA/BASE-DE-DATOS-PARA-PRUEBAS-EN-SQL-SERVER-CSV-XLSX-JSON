@@ -31,4 +31,4 @@ Este repositorio se distribuye bajo los términos de la [MIT License](LICENSE) �
 
 ---
 
-Para cualquier consulta o contribución, no dudes en contactar o enviar un pull request. ¡Gracias por visitar! 😊
+Para cualquier consulta o contribución, no dudes en contactar o enviar un pull request. ¡Gracias por visitar! 😊.
